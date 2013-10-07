@@ -9,8 +9,8 @@ https://github.com/stackforge/cookbook-openstack-dashboard
 Horizon Guidelines
 http://docs.openstack.org/developer/horizon/
 
-Requirements
-Note Chef 0.10.0 or higher is required (for Chef environment use). Four nodes are required with a Linux environment, three nodes will be used to deploy horizon in a 3 node cluster while 1 node will have all dependant openstack services installed and configured.
+###Requirements
+Chef Server 0.10.0 or higher is required (for Chef environment use). Four nodes are required with a Linux environment, three nodes will be used to deploy horizon in a 3 node cluster while 1 node will have all dependant openstack services installed and configured.
 
 
 ###Dependencies
