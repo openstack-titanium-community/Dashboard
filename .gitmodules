@@ -1,0 +1,3 @@
+[submodule "cookbooks/cookbook-openstack-dashboard"]
+	path = cookbooks/cookbook-openstack-dashboard
+	url = https://github.com/stackforge/cookbook-openstack-dashboard.git
